@@ -1,2 +1,2 @@
 # DLSimpleBannerView
-Very simple way to show images on a full-screen carousel
+Very simple way to make a banner with similar style to the App Store
