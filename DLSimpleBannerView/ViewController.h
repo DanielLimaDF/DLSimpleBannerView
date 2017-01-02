@@ -7,9 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DLSimpleBannerView.h"
+#import "BannerImage.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    
+}
 
+@property (nonatomic, retain) NSMutableArray *imageList;
+@property (nonatomic, retain) IBOutlet DLSimpleBannerView *bannerView;
+@property (nonatomic, retain) IBOutlet NSLayoutConstraint *bannerHeight;
 
 @end
 

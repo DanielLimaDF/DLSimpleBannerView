@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EBA830D11E1A3F75007F168F /* DLScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBA830D01E1A3F75007F168F /* DLScrollView.m */; };
 		EBF0878B1E0E5D5C00BF3EEB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF0878A1E0E5D5C00BF3EEB /* main.m */; };
 		EBF0878E1E0E5D5C00BF3EEB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF0878D1E0E5D5C00BF3EEB /* AppDelegate.m */; };
 		EBF087911E0E5D5C00BF3EEB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF087901E0E5D5C00BF3EEB /* ViewController.m */; };
@@ -15,6 +16,11 @@
 		EBF087991E0E5D5C00BF3EEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBF087971E0E5D5C00BF3EEB /* LaunchScreen.storyboard */; };
 		EBF087A41E0E5D5D00BF3EEB /* DLSimpleBannerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF087A31E0E5D5D00BF3EEB /* DLSimpleBannerViewTests.m */; };
 		EBF087AF1E0E5D5D00BF3EEB /* DLSimpleBannerViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF087AE1E0E5D5D00BF3EEB /* DLSimpleBannerViewUITests.m */; };
+		EBF087BF1E0E657600BF3EEB /* DLSimpleBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF087BE1E0E657600BF3EEB /* DLSimpleBannerView.m */; };
+		EBF087C31E0F9B2500BF3EEB /* BannerImage.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF087C21E0F9B2500BF3EEB /* BannerImage.m */; };
+		EBF087C81E0F9DF700BF3EEB /* banner1.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF087C51E0F9DF700BF3EEB /* banner1.png */; };
+		EBF087C91E0F9DF700BF3EEB /* banner2.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF087C61E0F9DF700BF3EEB /* banner2.png */; };
+		EBF087CA1E0F9DF700BF3EEB /* banner3.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF087C71E0F9DF700BF3EEB /* banner3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EBA830CF1E1A3F75007F168F /* DLScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLScrollView.h; sourceTree = "<group>"; };
+		EBA830D01E1A3F75007F168F /* DLScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLScrollView.m; sourceTree = "<group>"; };
 		EBF087861E0E5D5C00BF3EEB /* DLSimpleBannerView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DLSimpleBannerView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBF0878A1E0E5D5C00BF3EEB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EBF0878C1E0E5D5C00BF3EEB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +59,13 @@
 		EBF087AA1E0E5D5D00BF3EEB /* DLSimpleBannerViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DLSimpleBannerViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBF087AE1E0E5D5D00BF3EEB /* DLSimpleBannerViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DLSimpleBannerViewUITests.m; sourceTree = "<group>"; };
 		EBF087B01E0E5D5D00BF3EEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBF087BD1E0E657600BF3EEB /* DLSimpleBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLSimpleBannerView.h; sourceTree = "<group>"; };
+		EBF087BE1E0E657600BF3EEB /* DLSimpleBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLSimpleBannerView.m; sourceTree = "<group>"; };
+		EBF087C11E0F9B2500BF3EEB /* BannerImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BannerImage.h; sourceTree = "<group>"; };
+		EBF087C21E0F9B2500BF3EEB /* BannerImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BannerImage.m; sourceTree = "<group>"; };
+		EBF087C51E0F9DF700BF3EEB /* banner1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner1.png; sourceTree = "<group>"; };
+		EBF087C61E0F9DF700BF3EEB /* banner2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner2.png; sourceTree = "<group>"; };
+		EBF087C71E0F9DF700BF3EEB /* banner3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +116,8 @@
 		EBF087881E0E5D5C00BF3EEB /* DLSimpleBannerView */ = {
 			isa = PBXGroup;
 			children = (
+				EBF087C41E0F9DE100BF3EEB /* img */,
+				EBF087BC1E0E653100BF3EEB /* DLSimpleBannerView */,
 				EBF0878C1E0E5D5C00BF3EEB /* AppDelegate.h */,
 				EBF0878D1E0E5D5C00BF3EEB /* AppDelegate.m */,
 				EBF0878F1E0E5D5C00BF3EEB /* ViewController.h */,
@@ -138,6 +155,29 @@
 				EBF087B01E0E5D5D00BF3EEB /* Info.plist */,
 			);
 			path = DLSimpleBannerViewUITests;
+			sourceTree = "<group>";
+		};
+		EBF087BC1E0E653100BF3EEB /* DLSimpleBannerView */ = {
+			isa = PBXGroup;
+			children = (
+				EBF087BD1E0E657600BF3EEB /* DLSimpleBannerView.h */,
+				EBF087BE1E0E657600BF3EEB /* DLSimpleBannerView.m */,
+				EBF087C11E0F9B2500BF3EEB /* BannerImage.h */,
+				EBF087C21E0F9B2500BF3EEB /* BannerImage.m */,
+				EBA830CF1E1A3F75007F168F /* DLScrollView.h */,
+				EBA830D01E1A3F75007F168F /* DLScrollView.m */,
+			);
+			name = DLSimpleBannerView;
+			sourceTree = "<group>";
+		};
+		EBF087C41E0F9DE100BF3EEB /* img */ = {
+			isa = PBXGroup;
+			children = (
+				EBF087C51E0F9DF700BF3EEB /* banner1.png */,
+				EBF087C61E0F9DF700BF3EEB /* banner2.png */,
+				EBF087C71E0F9DF700BF3EEB /* banner3.png */,
+			);
+			name = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +247,7 @@
 				TargetAttributes = {
 					EBF087851E0E5D5C00BF3EEB = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = E7PJ7CC7S7;
 						ProvisioningStyle = Automatic;
 					};
 					EBF0879E1E0E5D5D00BF3EEB = {
@@ -246,7 +287,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBF087C91E0F9DF700BF3EEB /* banner2.png in Resources */,
+				EBF087CA1E0F9DF700BF3EEB /* banner3.png in Resources */,
 				EBF087991E0E5D5C00BF3EEB /* LaunchScreen.storyboard in Resources */,
+				EBF087C81E0F9DF700BF3EEB /* banner1.png in Resources */,
 				EBF087961E0E5D5C00BF3EEB /* Assets.xcassets in Resources */,
 				EBF087941E0E5D5C00BF3EEB /* Main.storyboard in Resources */,
 			);
@@ -274,8 +318,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBF087911E0E5D5C00BF3EEB /* ViewController.m in Sources */,
+				EBA830D11E1A3F75007F168F /* DLScrollView.m in Sources */,
 				EBF0878E1E0E5D5C00BF3EEB /* AppDelegate.m in Sources */,
+				EBF087BF1E0E657600BF3EEB /* DLSimpleBannerView.m in Sources */,
 				EBF0878B1E0E5D5C00BF3EEB /* main.m in Sources */,
+				EBF087C31E0F9B2500BF3EEB /* BannerImage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +471,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E7PJ7CC7S7;
 				INFOPLIST_FILE = DLSimpleBannerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dl.DLSimpleBannerView;
@@ -435,6 +483,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E7PJ7CC7S7;
 				INFOPLIST_FILE = DLSimpleBannerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dl.DLSimpleBannerView;
@@ -507,6 +556,7 @@
 				EBF087B51E0E5D5D00BF3EEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBF087B61E0E5D5D00BF3EEB /* Build configuration list for PBXNativeTarget "DLSimpleBannerViewTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +565,7 @@
 				EBF087B81E0E5D5D00BF3EEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBF087B91E0E5D5D00BF3EEB /* Build configuration list for PBXNativeTarget "DLSimpleBannerViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +574,7 @@
 				EBF087BB1E0E5D5D00BF3EEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
