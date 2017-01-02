@@ -57,7 +57,15 @@
     
     [super viewDidAppear:animated];
     
-    //[bannerView setBannerSize:CGSizeMake(420, 430)]; //Optional
+    //Size for the banner images -> OPTIONAL
+    if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) {
+        //iPad
+        [bannerView setBannerSize:CGSizeMake(640, 260)];
+    }else{
+        //iPhone
+        [bannerView setBannerSize:CGSizeMake(320, 130)];
+    }
+    
     
     [bannerView setBannerList:imageList];
     [bannerView setTimeInterval:5];//seconds
