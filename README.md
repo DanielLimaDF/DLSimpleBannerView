@@ -15,8 +15,8 @@ iPhone<br>
 iPad<br>
 ![Alt][screenshot2]
 
-[screenshot1]: https://github.com/DanielLimaDF/DLSimpleBannerView/blob/master/Screenshots/iPhone7.png
-[screenshot2]: https://github.com/DanielLimaDF/DLSimpleBannerView/blob/master/Screenshots/iPad.png
+[screenshot1]: https://github.com/DanielLimaDF/DLSimpleBannerView/blob/master/Screenshots/iPhone_Screen.png
+[screenshot2]: https://github.com/DanielLimaDF/DLSimpleBannerView/blob/master/Screenshots/iPad_Screen.png
 
 ## Usage
 
