@@ -87,4 +87,4 @@ I recommend that you download and run the project to better understand how it wo
 
 ## License
 
-DLSimpleURLAudioPlayer is available under the MIT license. See the LICENSE file for more info.
+DLSimpleBannerView is available under the MIT license. See the LICENSE file for more info.
