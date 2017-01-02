@@ -68,7 +68,7 @@
     
     
     [bannerView setBannerList:imageList];
-    [bannerView setTimeInterval:5];//seconds
+    [bannerView setTimeInterval:5];//seconds -> OPTIONAL
     [bannerView startBanner];
     
 }
