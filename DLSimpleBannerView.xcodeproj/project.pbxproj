@@ -247,7 +247,6 @@
 				TargetAttributes = {
 					EBF087851E0E5D5C00BF3EEB = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = E7PJ7CC7S7;
 						ProvisioningStyle = Automatic;
 					};
 					EBF0879E1E0E5D5D00BF3EEB = {
@@ -471,7 +470,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = E7PJ7CC7S7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DLSimpleBannerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dl.DLSimpleBannerView;
@@ -483,7 +482,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = E7PJ7CC7S7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DLSimpleBannerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dl.DLSimpleBannerView;
