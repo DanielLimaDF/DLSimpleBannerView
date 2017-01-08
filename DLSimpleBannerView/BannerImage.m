@@ -51,6 +51,7 @@
         
         image = [self loadImage:fileName];
         alreadyFinishedLoading = YES;
+        [delegate BannerImageFinishedLoading];
         
     }else{
         
