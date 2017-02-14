@@ -33,9 +33,9 @@
     [img1 setLocalImage:@"banner1.png"];
     [img2 setLocalImage:@"banner2.png"];
     [img3 setLocalImage:@"banner3.png"];
-    [img4 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.com/banner4.png"];
-    [img5 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.com/banner5.png"];
-    [img6 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.com/banner6.png"];
+    [img4 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.mobi/banner4.png"];
+    [img5 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.mobi/banner5.png"];
+    [img6 setUrlImage:@"http://dlsimplefullscreenimagecarousel.42noticias.mobi/banner6.png"];
     
     [imageList addObject:img1];
     [imageList addObject:img2];

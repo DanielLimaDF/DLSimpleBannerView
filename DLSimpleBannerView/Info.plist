@@ -47,7 +47,7 @@
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>dlsimplefullscreenimagecarousel.42noticias.com</key>
+			<key>dlsimplefullscreenimagecarousel.42noticias.mobi</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
