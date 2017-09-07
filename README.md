@@ -20,8 +20,9 @@ iPad<br>
 
 ## Usage
 
-Implementing DLSimpleBannerView is fairly easy, the first step is to set up your Storyboard:
+Implementing DLSimpleBannerView is fairly easy, the first step is to set up your Storyboard:<br>
 ![Alt][screenshot3]
+
 [screenshot3]: https://github.com/DanielLimaDF/DLSimpleBannerView/blob/master/Screenshots/xcode.png
 
 Coding:
