@@ -4,11 +4,11 @@ License: MIT
 
 Platform: iOs
 
-##Very simple way to make a banner with similar style to the App Store (Using Storyboard)
+## Very simple way to make a banner with similar style to the App Store (Using Storyboard)
 
 DLSimpleBannerView is a UIView Subclass containing a UIScrolView that shows local images or loaded from the web.
 
-####Screenshots:
+#### Screenshots:
 iPhone<br>
 ![Alt][screenshot1]
 
